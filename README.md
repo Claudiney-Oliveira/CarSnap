@@ -1,2 +1,3 @@
-# CarSnap
-Projeto de LPIII da Fatec
+# carsnap
+
+A new Flutter project.
